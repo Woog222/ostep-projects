@@ -65,7 +65,7 @@ Sounds easy, right? It should. But there are a few details...
 ## Assumptions and Errors
 
 - **Input is the same as output:** If the input file and output file are the
-same file, you should print out an error message "Input and output file must
+same file, you should print out an error message "reverse: input and output file must
 differ" and exit with return code 1.
 
 - **String length:** You may not assume anything about how long a line should
