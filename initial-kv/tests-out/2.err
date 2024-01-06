@@ -1,0 +1,2 @@
+../tester/run-tests.sh: line 27: 11496 Segmentation fault      (core dumped) ./kv p,1,1
+../tester/run-tests.sh: line 27: 11502 Segmentation fault      (core dumped) ./kv g,1
