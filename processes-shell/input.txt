@@ -1,0 +1,6 @@
+hi
+ls
+cd
+path
+paht
+exit
